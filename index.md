@@ -1,7 +1,7 @@
-# Welcome to BinLab
+# Welcome to BLab
 
 ## Aims
-We are proposing codes.
+We are working on Neuroimaging features and more digital markers of Alzheimer's Disease and other Dementia. We are too busy with clinical and scientific business, so the website is still under construction. 
 
 Publications
 1. Zhang J, Chen H, Wang J, et al. Linking white matter hyperintensities to regional cortical thinning, amyloid deposition, and synaptic density loss in Alzheimer’s disease. Alzheimers Dement. 2024;20(6):3931-3942. doi:10.1002/alz.13845
